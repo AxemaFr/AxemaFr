@@ -9,7 +9,7 @@ Find out more about me & feel free to connect with me here:
 
 ## Last publish:
 
-[Habr - CallStack and its magic size in JS (RUS)](https://habr.com/ru/post/550534/)
+- [Habr - CallStack and its magic size in JS (RUS)](https://habr.com/ru/post/550534/)
 
 ## ⚡ Technologies
 
