@@ -7,6 +7,10 @@ Find out more about me & feel free to connect with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-AxemaFr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/axemafr/)](https://www.linkedin.com/in/axemafr/)
 [![Gmail Badge](https://img.shields.io/badge/-axema@inbox.ru-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:axema@inbox.ru)](mailto:axema@inbox.ru)
 
+## Last publish:
+
+[Habr - CallStack and its magic size in JS (RUS)](https://habr.com/ru/post/550534/)
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
