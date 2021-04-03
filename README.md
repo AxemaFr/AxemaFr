@@ -34,6 +34,6 @@ Find out more about me & feel free to connect with me here:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![C#](https://img.shields.io/badge/-C#-darkblue?style=flat-square&logo=csharp)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=axemafr.axemafr)
