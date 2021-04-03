@@ -1,6 +1,6 @@
 ## Fancy seeing you here!
 
-I am Myazitov Artem, currently working for [YCLIENTS](https://yclients.com/). I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Mentoring on [Hexlet](https://hexlet.io/) and [HtmlAcademy](https://htmlacademy.com). Mentor in [this Telegram chat](https://t.me/jun_mid_front)
+I am Myazitov Artem, currently working for [YCLIENTS](https://yclients.com/). I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Mentoring on [Hexlet](https://hexlet.io/) and [HtmlAcademy](https://htmlacademy.ru). Mentor in [this Telegram chat](https://t.me/jun_mid_front)
 
 Find out more about me & feel free to connect with me here:
 
