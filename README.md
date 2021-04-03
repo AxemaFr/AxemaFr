@@ -4,13 +4,13 @@ I am Myazitov Artem, currently working for [YCLIENTS](https://yclients.com/). I 
 
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/axemafr/)](https://www.linkedin.com/in/axemafr/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:axema@inbox.ru)](mailto:axema@inbox.ru)
+[![Linkedin Badge](https://img.shields.io/badge/-AxemaFr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/axemafr/)](https://www.linkedin.com/in/axemafr/)
+[![Gmail Badge](https://img.shields.io/badge/-axema@inbox.ru-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:axema@inbox.ru)](mailto:axema@inbox.ru)
 
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-[![angular](https://simpleicons.org/icons/angular.svg)](https://badges.aleen42.com/src/angular.svg)
+![angular](https://simpleicons.org/icons/angular.svg)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
